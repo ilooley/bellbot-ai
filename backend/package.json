@@ -1,0 +1,23 @@
+{
+  "name": "bellbot-ai-backend",
+  "version": "1.0.0",
+  "description": "Backend server for BellBot.ai - WhatsApp-integrated chatbot assistant for Airbnb hosts",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "twilio": "^4.11.0"
+  },
+  "devDependencies": {}
+}
