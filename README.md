@@ -26,7 +26,7 @@ bellbot-ai/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ilooley/bellbot-ai.git
    cd bellbot-ai
    ```
 
@@ -65,4 +65,4 @@ The frontend will run on http://localhost:3000 and the backend on http://localho
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
